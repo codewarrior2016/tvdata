@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bravo" tvg-name="Bravo" group-title="Live",Bravo
+https://fl7.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" group-title="Live",HGTV
+https://fl41.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" group-title="Live",FX
+https://fl61.moveonjoy.com/FX/index.m3u8
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="Live",TLC
+https://fl61.moveonjoy.com/TLC/index.m3u8
